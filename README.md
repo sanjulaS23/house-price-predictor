@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning project that predicts house prices based on features like square footage, quality, and location.
 
-![Uploading image.png…]()
+![Project Demo](demo.png)
 
 ## Features
 - **Machine Learning Model:** Trained using `RandomForestRegressor`.
